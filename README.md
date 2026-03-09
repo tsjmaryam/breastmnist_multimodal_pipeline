@@ -86,10 +86,11 @@ Google Colab
 ---
 
 ## Repository Structure
+
 breastmnist_multimodal_pipeline/
 │
 ├── breastmnist_pipeline.ipynb     # Main training and evaluation notebook
-├── README.md                      # Project documentation
+└── README.md                      # Project documentation
 
 ---
 
