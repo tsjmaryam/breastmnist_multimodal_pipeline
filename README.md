@@ -57,19 +57,31 @@ Particular attention is given to **false negatives**, where malignant tumors are
 ## Tech Stack
 
 ### Programming
-- Python
+Python
 
-### Machine Learning / Deep Learning
-- PyTorch
-- Scikit-learn
-- NumPy
-- Pandas
+### Deep Learning
+PyTorch  
+Torchvision
+
+### Medical Imaging Dataset
+MedMNIST (BreastMNIST)
+
+### Machine Learning & Evaluation
+Scikit-learn  
+NumPy
+
+### Large Language Models
+Qwen (via HuggingFace Transformers)
 
 ### Visualization
-- Matplotlib
+Matplotlib
 
-### Environment
-- Google Colab
+### Utilities
+tqdm (training progress monitoring)  
+Requests
+
+### Development Environment
+Google Colab
 
 ---
 
